@@ -1,0 +1,35 @@
+.footer-container {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 110px;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+
+    .footer-info {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+
+        .social-container {
+            display: flex;
+            justify-content: space-between;
+            flex-direction: row;
+            align-items: center;
+            width: 120px;
+        }
+    }
+    
+}
+
+@media screen and (min-width: 768px) {
+    .footer-container {
+        font-size: 16px;
+    }
+}

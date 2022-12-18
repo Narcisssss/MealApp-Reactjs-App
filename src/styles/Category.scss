@@ -1,0 +1,30 @@
+.category-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 40px;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+    .meal-card {
+        width: 250px;
+        height: 320px;
+        background-color: black;
+        color: white;
+        margin: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        padding: 25px;
+        text-align: center;
+        box-shadow: black 0px 2px 4px 0px, black 0px 2px 16px 0px;
+        overflow: hidden;
+    
+        .meal-thumbnail {
+            border-radius: 150px;
+        }
+    }
+     
+}
