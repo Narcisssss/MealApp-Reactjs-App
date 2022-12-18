@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MealApp-Reactjs-App/static/css/main.1bbf2df4.css",
+    "main.js": "/MealApp-Reactjs-App/static/js/main.48a24fea.js",
+    "static/js/787.dec18d5f.chunk.js": "/MealApp-Reactjs-App/static/js/787.dec18d5f.chunk.js",
+    "static/media/food-pic-2.jpg": "/MealApp-Reactjs-App/static/media/food-pic-2.94fa47693889ea2034ec.jpg",
+    "static/media/food-pic-1.jpg": "/MealApp-Reactjs-App/static/media/food-pic-1.a075d233759050df4e72.jpg",
+    "static/media/whatsapp.png": "/MealApp-Reactjs-App/static/media/whatsapp.d026940870fb334920b7.png",
+    "static/media/facebook.png": "/MealApp-Reactjs-App/static/media/facebook.01a470d813915c298403.png",
+    "static/media/linkedin.png": "/MealApp-Reactjs-App/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "index.html": "/MealApp-Reactjs-App/index.html",
+    "main.1bbf2df4.css.map": "/MealApp-Reactjs-App/static/css/main.1bbf2df4.css.map",
+    "main.48a24fea.js.map": "/MealApp-Reactjs-App/static/js/main.48a24fea.js.map",
+    "787.dec18d5f.chunk.js.map": "/MealApp-Reactjs-App/static/js/787.dec18d5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bbf2df4.css",
+    "static/js/main.48a24fea.js"
+  ]
+}
